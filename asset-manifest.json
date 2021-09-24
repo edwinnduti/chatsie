@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/chatsie/static/js/main.4bc21944.chunk.js",
-    "main.js.map": "/chatsie/static/js/main.4bc21944.chunk.js.map",
+    "main.js": "/chatsie/static/js/main.24df5ede.chunk.js",
+    "main.js.map": "/chatsie/static/js/main.24df5ede.chunk.js.map",
     "runtime-main.js": "/chatsie/static/js/runtime-main.53a5f3a1.js",
     "runtime-main.js.map": "/chatsie/static/js/runtime-main.53a5f3a1.js.map",
-    "static/js/2.f13ece1c.chunk.js": "/chatsie/static/js/2.f13ece1c.chunk.js",
-    "static/js/2.f13ece1c.chunk.js.map": "/chatsie/static/js/2.f13ece1c.chunk.js.map",
+    "static/js/2.d5b0d3b1.chunk.js": "/chatsie/static/js/2.d5b0d3b1.chunk.js",
+    "static/js/2.d5b0d3b1.chunk.js.map": "/chatsie/static/js/2.d5b0d3b1.chunk.js.map",
     "index.html": "/chatsie/index.html",
-    "static/js/2.f13ece1c.chunk.js.LICENSE.txt": "/chatsie/static/js/2.f13ece1c.chunk.js.LICENSE.txt"
+    "static/js/2.d5b0d3b1.chunk.js.LICENSE.txt": "/chatsie/static/js/2.d5b0d3b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53a5f3a1.js",
-    "static/js/2.f13ece1c.chunk.js",
-    "static/js/main.4bc21944.chunk.js"
+    "static/js/2.d5b0d3b1.chunk.js",
+    "static/js/main.24df5ede.chunk.js"
   ]
 }
